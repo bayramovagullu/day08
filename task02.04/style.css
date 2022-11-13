@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.all{
+    background-image: url(/task02.02/dentust22.webp);
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative; 
+    margin-bottom: 50px; 
+}
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    color: white;
+    font-size: 20px;
+   
+    display: inline-flex;
+    margin-right: 45px;
+    margin-left: 400px;
+}
+.pageees1{
+    position: fixed;
+   background-color:#b2b2b2;
+   width: 4000px;
+   height: 70px;
+}
+.pageees1 li{
+    float: left;
+}
+.pageees1 li a{
+    text-decoration: none;
+    /* display: inline-block; */
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    
+}
+.pageees1 input{
+    border: none;
+    background-color: white;
+}
+.fa-moon{
+    margin-top: 20px;
+   color: white;
+    font-size: 23px;
+}
+.fa-magnifying-glass{
+    color: white;
+    background-color: #12d5d8;
+   border: 2px solid #12d5d8;
+   border-top-right-radius: 20px;
+   border-bottom-right-radius: 20px;
+   padding: 2px;
+}
+.pageees1 button{
+    border-radius: 13px;
+    border: none;
+    font-size: 20px;
+    padding: 18px;
+}
+.pageees1 form{
+    background-color: white;
+      font-size: 40px;
+      border: 5px solid white;
+      border-radius: 23px;
+      display:inline-flex;
+  }
+  .contact-2{
+    margin-top: 150px;
+    margin-left: 50px;
+    display: inline-block;
+    font-size: 20px;
+    width: 400px;
+}
+
+.welcome{
+    font-size: 30px;
+}
+.welcome-01{
+   
+    display: block;
+    width: 400px;
+    margin-left: 200px;
+    font-size: 20px;
+}
+.welcome-01 img {
+padding-left: 600px;
+margin-top: -300px;
+
+}
+.awesome{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+   padding-top: 50px;
+}
+.bg-01{
+     background: linear-gradient(to right, #004e92, #29ffc6) ;
+     height: 700px;
+     margin-top: 30px;
+     
+}
+.bg-01-02{
+    background-color: white;
+    display: inline-block;
+    margin-left: 120px;
+    text-align: center;
+    font-size: 20px;
+    width: 300px;
+    height: 220px;
+  margin-top: 60px;
+  border-radius: 20px;
+  padding: 12px 15px;
+}
+.bg-01-02 a{
+  text-decoration: none;
+  color: darkblue;
+}
+.doctors{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+   margin-bottom: 300px;
+    
+}
+.doc{
+    width: 300px;
+    box-shadow: 2px 2px 6px 2px #736f6f;
+    margin-left: 50px;
+    
+}
+.end img{
+ border-radius: 90%;
+ /* float: left; */
+}
+
+.end{
+    font-size: 20px;
+    width: 900px;
+    height: 300px;
+
+    margin-left: 300px;
+    margin-top: 30px;
+    
+}
+
+.past02{
+    padding-top: 56px;
+    background-color: black;
+    height: 320px;
+}
+    .contact01{
+       
+        color: #cfc3c3;
+        display: inline;
+        margin-left: 30px;
+    }
+    .contact01 p{
+        margin-left: 30px;
+       
+    }
+    table{
+        color: #cfc3c3;
+        margin-left:600px;
+        margin-top: -130px; 
+    }
+
+    td{
+     width: 150px; 
+     border-bottom: 2px solid #938b8b;  
+     border-right: 10px solid black;
+    }
+   th{
+    font-size: 20px;
+    text-align: left;
+    margin-bottom: 20px;
+    width: 300px;
+   }
+   tr{
+    height: 40px;
+   }
+   .past01{
+    background: linear-gradient(to right,#1c4f86, #4ecdc4 );
+    display: flex;
+    padding-top: 80px;
+}
+
+.fa-phone-volume{
+    font-size: 20px;
+    color: #e5dcdc;
+}
+   
+   .numbeer button{
+    font-size: 15px;
+    width: 200px;
+    border-radius: none;
+
+}
+
+.numbeer{
+    height: 50px;
+    margin-left: 600px;
+    
+}
+
+.visited{
+    margin-left: 90px;
+    color: white;
+    font-size: 20px;
+}
